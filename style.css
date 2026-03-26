@@ -15,7 +15,7 @@ gap: 10px;
 
 button{
     background-color: green;
-    color:bisque
-  
-
+    color:bisque;
+    border: none;
+    border-radius: 5px;
 }
